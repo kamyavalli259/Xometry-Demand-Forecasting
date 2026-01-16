@@ -1,6 +1,7 @@
-data/
 __pycache__/
 *.pyc
-*.parquet
-*.csv
+.env
+data/raw/
+data/processed/
+
 
