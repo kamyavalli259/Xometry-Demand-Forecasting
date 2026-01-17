@@ -156,7 +156,7 @@ This project is designed to be easily extended to:
 ### 📫 Contact
 
 Kamyavalli Mopidevi
-GitHub: https://github.com/kamyavalli259/Xometry-Demand-Forecasting 
+GitHub: https://github.com/kamyavalli259/Digital_Manufacturing_Demand_Forecasting 
 LinkedIn: https://www.linkedin.com/in/kamyavallimopidevi259/ 
 
 ⭐ If you’re a recruiter or engineer reviewing this project, feel free to reach out!
