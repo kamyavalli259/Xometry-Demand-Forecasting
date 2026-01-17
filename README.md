@@ -1,4 +1,4 @@
-# Xometry-Demand-Forecasting
+# Digital_Manufacturing_Demand_Forecasting
 End-to-end demand forecasting and capacity optimization using Spark and ML
 
 # End-to-End Demand Forecasting & Capacity Optimization for Digital Manufacturing
