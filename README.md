@@ -48,7 +48,7 @@ Demand Forecasting Models
 Capacity Optimization (Linear Programming)
 ↓
 Evaluation & Business Impact Analysis
-
+```
 ## 📦 Key Features
 
 ### 🔹 Scalable Data Pipeline
@@ -99,7 +99,7 @@ xometry-demand-forecasting/
 │   └── run_pipeline.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## ⚙️ How to Run the Project
 
