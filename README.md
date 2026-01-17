@@ -127,7 +127,7 @@ python pipeline/run_pipeline.py
 mlflow ui
 Open: http://localhost:5000 
 
-
+```
 
 
 
@@ -136,7 +136,7 @@ Open: http://localhost:5000
 --Comparison between statistical and ML-based models
 --Sensitivity analysis on forecast error impact
 
-###☁️ Cloud & Production Readiness
+### ☁️ Cloud & Production Readiness
 This project is designed to be easily extended to: 
 -- **AWS S3** for cloud storage
 -- **AWS Glue / EMR** for Spark processing
@@ -144,7 +144,7 @@ This project is designed to be easily extended to:
 -- **Airflow** for orchestration
 
 
-###Skills Demonstrated
+### Skills Demonstrated
 --Data Engineering (Spark, ETL, feature pipelines)
 --Statistical Modeling & Machine Learning
 --Time-Series Forecasting
@@ -153,8 +153,7 @@ This project is designed to be easily extended to:
 --Business Impact Analysis
 --Clear technical & non-technical communication
 
-
-###📫 Contact
+### 📫 Contact
 
 Kamyavalli Mopidevi
 GitHub: https://github.com/kamyavalli259/Xometry-Demand-Forecasting 
